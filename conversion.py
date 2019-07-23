@@ -1,0 +1,6 @@
+birth_year= input('What is your Birth Year? ')
+age= 2019 - int(birth_year)
+print(age)
+weight_pd= input("what is your weight (in Pounds)? ")
+weight= 0.45*float(weight_pd)
+print (weight)
